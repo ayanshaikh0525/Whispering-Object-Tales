@@ -14,8 +14,7 @@ from drive.drive_utils import (
     get_drive_link
 )
 
-from processing.extract_keyframes import extract_keyframes
-from processing.analyze_video import analyze_video_frames
+from processing.transcribe-audio import transcribe_video
 from utils.video_status import *
 
 from utils.json_utils import (
@@ -44,31 +43,17 @@ def process_video(video_record):
             original_video
         )
 
-        print("Extracting frames...")
-
-        frames = extract_keyframes(
-            original_video,
-            output_dir=os.path.join(
-                temp_dir,
-                "frames"
-            ),
-            num_frames=10
-        )
-
-        print("Analyzing video...")
-
-        analysis = analyze_video_frames(
-            frames
-        )
+        print("Transcribing the Audio......")
+        transcript = transcribe_video(original_video)
 
         mark_processing_completed(
             video_id=video_record["id"],
-            analysis=analysis
+            transcribe=transcript
         )
         
 
         return {
-            "analysis": analysis
+            "transcribe": transcript
         }
 
 
