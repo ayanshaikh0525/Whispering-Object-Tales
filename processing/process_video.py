@@ -14,7 +14,7 @@ from drive.drive_utils import (
     get_drive_link
 )
 
-from processing.transcribe-audio import transcribe_video
+from processing.transcribe_audio import transcribe_video
 from utils.video_status import *
 
 from utils.json_utils import (
