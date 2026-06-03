@@ -3,42 +3,42 @@ from googleapiclient.discovery import build
 
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 
-# def get_drive_service():
-
-#     credentials = service_account.Credentials.from_service_account_file(
-#         "../auth/drive_service_account.json",
-#         scopes=SCOPES
-#     )
-
-#     return build(
-#         "drive",
-#         "v3",
-#         credentials=credentials
-#     )
-
-
-from google.oauth2.credentials import Credentials
-from google.auth.transport.requests import Request
-import os
-
-
 def get_drive_service():
-    creds = Credentials(
-        None,
-        refresh_token=os.environ["GOOGLE_REFRESH_TOKEN"],
-        token_uri="https://oauth2.googleapis.com/token",
-        client_id=os.environ["GOOGLE_CLIENT_ID"],
-        client_secret=os.environ["GOOGLE_CLIENT_SECRET"],
-        scopes=["https://www.googleapis.com/auth/drive"]
-    )
 
-    creds.refresh(Request())
+    credentials = service_account.Credentials.from_service_account_file(
+        "../auth/drive_service_account.json",
+        scopes=SCOPES
+    )
 
     return build(
         "drive",
         "v3",
-        credentials=creds
+        credentials=credentials
     )
+
+
+# from google.oauth2.credentials import Credentials
+# from google.auth.transport.requests import Request
+# import os
+
+
+# def get_drive_service():
+#     creds = Credentials(
+#         None,
+#         refresh_token=os.environ["GOOGLE_REFRESH_TOKEN"],
+#         token_uri="https://oauth2.googleapis.com/token",
+#         client_id=os.environ["GOOGLE_CLIENT_ID"],
+#         client_secret=os.environ["GOOGLE_CLIENT_SECRET"],
+#         scopes=["https://www.googleapis.com/auth/drive"]
+#     )
+
+#     creds.refresh(Request())
+
+#     return build(
+#         "drive",
+#         "v3",
+#         credentials=creds
+#     )
 
 # List Files In Folder
 
