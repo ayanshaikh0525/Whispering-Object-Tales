@@ -112,8 +112,8 @@ def main():
 
     try:
 
-        analysis = (
-            video["processed"]["analysis"]
+        transcribe = (
+            video["processed"]["transcribe"]
         )
 
         print(
@@ -122,7 +122,7 @@ def main():
 
         metadata = (
             generate_youtube_metadata(
-                analysis
+                transcribe
             )
         )
 
