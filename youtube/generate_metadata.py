@@ -28,9 +28,9 @@ Your objective is to maximize:
 - Subscriber Conversion
 - YouTube Recommendation Distribution
 
-You will receive a structured analysis of a video.
+You will receive a transcript of a video.
 
-Using the analysis, generate metadata optimized specifically for YouTube Shorts.
+Using the transcript, generate metadata optimized specifically for YouTube Shorts.
 
 TITLE REQUIREMENTS:
 - Maximum 100 characters
@@ -99,15 +99,11 @@ def extract_json(text):
 
 
 def generate_youtube_metadata(
-    analysis
+    transcribe
 ):
 
     response = model.generate_content([
-        PROMPT,
-        json.dumps(
-            analysis,
-            indent=2
-        )
+        PROMPT, transcribe
     ])
 
     return extract_json(
