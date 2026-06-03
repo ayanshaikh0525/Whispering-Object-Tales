@@ -6,7 +6,7 @@ SCOPES = ["https://www.googleapis.com/auth/drive"]
 def get_drive_service():
 
     credentials = service_account.Credentials.from_service_account_file(
-        "../auth/drive_service_account.json",
+        "../auth/service_account.json",
         scopes=SCOPES
     )
 
