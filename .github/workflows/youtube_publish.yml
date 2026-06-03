@@ -1,10 +1,11 @@
+
 name: YouTube Publisher
 
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0/30 * * * *" 
+    - cron: "0/30 * * * *"
 
 permissions:
   contents: write
@@ -17,7 +18,10 @@ jobs:
       GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
       GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
       GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      SOURCE_FOLDER_ID: ${{ secrets.SOURCE_FOLDER_ID }}
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      PYTHONPATH: .
 
     steps:
       - name: Checkout Repository
@@ -28,6 +32,24 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Cache Python packages
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # Cache Faster-Whisper model
+      - name: Cache Hugging Face Model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-faster-whisper-small-v1
+          restore-keys: |
+            ${{ runner.os }}-faster-whisper-
+
       - name: Remove broken Chrome repo
         run: |
           sudo rm -f /etc/apt/sources.list.d/google-chrome.list
@@ -37,16 +59,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Create Auth Directory
-        run: |
-          mkdir -p auth
-
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-
+      - name: Create Auth Directory
+        run: mkdir -p auth
 
       - name: Create Service Account File
         run: |
@@ -60,22 +79,14 @@ jobs:
         run: |
           echo "${{ secrets.YOUTUBE_TOKEN_JSON }}" | base64 -d > auth/token.json
 
-    
-      - name: Check Auth Files
+      - name: Verify HF Token
         run: |
-          ls -la auth
-          wc -c auth/service_account.json
-          wc -c auth/client_secret.json
-          wc -c auth/token.json
+          python -c "import os; print('HF_TOKEN Found:', bool(os.getenv('HF_TOKEN')))"
 
       - name: Run Publisher
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          SOURCE_FOLDER_ID: ${{ secrets.SOURCE_FOLDER_ID }}
-          PYTHONPATH: .
-
         run: |
-          cd workers && python publish_youtube.py
+          cd workers
+          python publish_youtube.py
 
       - name: Commit Updated JSON
         run: |
@@ -84,7 +95,8 @@ jobs:
 
           git add data/master_videos.json
 
-          git diff --cached --quiet || git commit -m "Update video publishing status"
+          git diff --cached --quiet || \
+          git commit -m "Update video publishing status"
 
       - name: Push Changes
         run: |
