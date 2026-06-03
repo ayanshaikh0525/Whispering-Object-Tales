@@ -59,7 +59,7 @@ def mark_processing_started(
 
 def mark_processing_completed(
     video_id,
-    analysis
+    transcribe
 ):
 
     videos = load_videos()
@@ -71,7 +71,7 @@ def mark_processing_completed(
 
     video["processed"] = {
         "exists": True,
-        "analysis": analysis
+        "transcribe": transcribe
     }
 
     video.setdefault(
