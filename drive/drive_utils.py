@@ -29,7 +29,7 @@ def get_drive_service():
         token_uri="https://oauth2.googleapis.com/token",
         client_id=os.environ["GOOGLE_CLIENT_ID"],
         client_secret=os.environ["GOOGLE_CLIENT_SECRET"],
-        scopes=["https://www.googleapis.com/auth/drive"]
+        scopes=["https://www.googleapis.com/auth/drive.readonly"]
     )
 
     creds.refresh(Request())
