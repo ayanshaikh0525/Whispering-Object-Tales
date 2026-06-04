@@ -21,6 +21,7 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       SOURCE_FOLDER_ID: ${{ secrets.SOURCE_FOLDER_ID }}
       HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HUGGING_FACE_HUB_TOKEN: ${{ secrets.HF_TOKEN }}
       PYTHONPATH: .
 
     steps:
