@@ -4101,13 +4101,16 @@
       "drive_file_id": "18o9bJYb2gUwltOqguLea9ZNv9t3olGkI"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Come on, put me in the Xbox controller. Low-key unstoppable. Please no, just make cheddar videos instead. You got this, my love. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "5L_69FSxcLE",
+        "uploaded_at": "2026-06-04T21:12:06.175619",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4121,6 +4124,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T21:12:02.251148"
     }
   },
   {
