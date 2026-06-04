@@ -84,6 +84,17 @@ jobs:
         run: |
           python -c "import os; print('HF_TOKEN Found:', bool(os.getenv('HF_TOKEN')))"
 
+      - name: Verify Service Account
+        run: |
+          python - <<EOF
+          import json
+          with open("auth/service_account.json") as f:
+              data = json.load(f)
+          print(data["type"])
+          print(data["client_email"])
+          print(data["private_key"][:40])
+          EOF
+
       - name: Run Publisher
         run: |
           cd workers
