@@ -5870,13 +5870,16 @@
       "drive_file_id": "1LMnHpbaYGhM9q74bUE-eDs8VNaEJ19hU"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Don't put me on. I can feel the dirt crawling. I shine purer than any of you. You? You're cloudy. I'm flawless. Stop touching me with those grease fingers."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "4_RePOoxsjE",
+        "uploaded_at": "2026-06-04T07:59:22.029052",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5890,6 +5893,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T07:59:17.736957"
     }
   },
   {
