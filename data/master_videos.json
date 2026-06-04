@@ -8011,13 +8011,16 @@
       "drive_file_id": "1ROuNjzcHyGUQfsCfQdHJHK2GzQp-cpm7"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "they're so soft today they shine better in here I taste like stars don't open me, they're happy here they're so soft today"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "bjvU5M9Zr1c",
+        "uploaded_at": "2026-06-04T19:23:58.872106",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8031,6 +8034,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T19:23:55.444718"
     }
   },
   {
