@@ -8,8 +8,7 @@ model = WhisperModel(
     "small",
     device="cpu",  # GitHub Actions runners usually don't have GPU
     compute_type="int8",
-    download_root=os.path.expanduser("~/.cache/huggingface/hub"),
-    token=os.getenv("HF_TOKEN")
+    download_root=os.path.expanduser("~/.cache/huggingface/hub")
 )
 
 def transcribe_video(video_path):
