@@ -3486,13 +3486,16 @@
       "drive_file_id": "1j63617hyYBtkc5-AAiAnGEbkH_liIBHm"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Shhh, don't shake me. I'm still alive inside. Everybody loves ketchup. Until they taste me. Don't mix me with mayo, she whispers too much."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "kQx79ZH2Cdo",
+        "uploaded_at": "2026-06-04T13:58:02.783173",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3506,6 +3509,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T13:57:59.348122"
     }
   },
   {
