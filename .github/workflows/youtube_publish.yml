@@ -51,6 +51,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-faster-whisper-
 
+      - name: Debug Cache
+        run: |
+          ls -R ~/.cache/huggingface || true
+    
       - name: Remove broken Chrome repo
         run: |
           sudo rm -f /etc/apt/sources.list.d/google-chrome.list
