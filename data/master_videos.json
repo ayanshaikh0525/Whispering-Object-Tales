@@ -6514,13 +6514,16 @@
       "drive_file_id": "1IeUgd8n3T86T-CV7dLjK_Yb6h2RApBM0"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Give thanks while you still can. Bring cookies. I don't open for free. Cupid shot. I fell for you. No bbq. No freedom. Cupid shot."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qViSa336i5s",
+        "uploaded_at": "2026-06-04T10:48:15.718027",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6534,6 +6537,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T10:48:11.082428"
     }
   },
   {
