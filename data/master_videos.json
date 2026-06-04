@@ -4530,13 +4530,16 @@
       "drive_file_id": "1zMmFawxhnb5LHuEJGGY8OqqEQuC55Gix"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Careful, I remember every sweat. Shh, I can still smell your fear. I hug your legs tighter than your last relationship. I'm literally the reason people think you're chill. I love you."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "bMP0BdOGLU4",
+        "uploaded_at": "2026-06-04T07:52:04.697296",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4550,6 +4553,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T07:52:00.699670"
     }
   },
   {
