@@ -6671,13 +6671,16 @@
       "drive_file_id": "1YbWMf9KRJfcJy8bHmxksxWQCWhalofnQ"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Every pop hurts, dude I can't hold myself You don't even drink water Don't hug me. I'm a bottle You"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "QWLkAAQG5XU",
+        "uploaded_at": "2026-06-04T16:57:22.715536",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6691,6 +6694,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-04T16:57:18.795692"
     }
   },
   {
