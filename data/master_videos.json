@@ -6765,13 +6765,16 @@
       "drive_file_id": "1GlnEWtMDre0MI0asGXjptsubd1KLFZIv"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Everyone smiles before cutting me. They eat to forget I was whole. The knife already chose. Will you eat the last cake of the year? Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "kPERfzn-dLg",
+        "uploaded_at": "2026-06-05T19:20:12.760507",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6785,6 +6788,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T19:20:09.094488"
     }
   },
   {
