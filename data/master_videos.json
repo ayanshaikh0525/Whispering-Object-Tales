@@ -5331,13 +5331,16 @@
       "drive_file_id": "1Ewi6O7kcBNZjNb8cz4X9j8uha6zRPeUy"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Want to know the secret ingredient? It's always been you. Your hunger feeds me, and I'm always starving. Welcome to Wendy's, where the last smile you see is mine."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "YAoJQSTtgIk",
+        "uploaded_at": "2026-06-05T00:03:33.787178",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5351,6 +5354,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T00:03:29.819171"
     }
   },
   {
