@@ -2239,13 +2239,16 @@
       "drive_file_id": "1FFM0AspvB4Y_2-SFKn7JDyFfmZY7Zygt"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Every crunch is a goodbye. Please make it quick. You love me. Please stop eating what you love. Please let me stay crunchy a little longer."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ySCVq6rY6Ug",
+        "uploaded_at": "2026-06-05T12:00:36.064720",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2259,6 +2262,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T12:00:18.650706"
     }
   },
   {
