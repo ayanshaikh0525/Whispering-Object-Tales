@@ -6422,13 +6422,16 @@
       "drive_file_id": "1Gta9do0isIikOWwpObFrhPsWfLujOItX"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Welcome to Derry, just a bite. Your fear. You look soft up close. Come closer, I want to bite you. Come closer."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Jr96TV8lqag",
+        "uploaded_at": "2026-06-05T08:43:05.808261",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6442,6 +6445,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T08:43:01.293636"
     }
   },
   {
