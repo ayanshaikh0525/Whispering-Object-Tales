@@ -2419,13 +2419,16 @@
       "drive_file_id": "1wrVC2_XgzEExYiDkOwUT-odjLDy_xWEY"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Don't blink. I like when you're afraid. I see you, and I taste better when you're scared. I whisper when you eat me. Do you hear me?"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Wi35Z1Dj8c8",
+        "uploaded_at": "2026-06-05T21:07:52.053048",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2439,6 +2442,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T21:07:48.256242"
     }
   },
   {
