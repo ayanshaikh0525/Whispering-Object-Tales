@@ -8111,13 +8111,16 @@
       "drive_file_id": "1FpVrwkAN7zfOnygsMbYL6BXa7OuqO5Ll"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I love when you chew Just do it You don't know how good I am Golden crunchy perfect You"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BItUft8j9ps",
+        "uploaded_at": "2026-06-05T17:29:02.921699",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8131,6 +8134,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T17:28:58.231671"
     }
   },
   {
