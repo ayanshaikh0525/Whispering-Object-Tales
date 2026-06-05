@@ -5186,13 +5186,16 @@
       "drive_file_id": "1gF9BZfF1X-r7wcF0P02ZnqsD1aaSMmrj"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "The stars don't shine for you. They shine because they burn. Clocks were made to control you, so I broke them. I don't scream for me, I scream for you."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9h-eicsy2vQ",
+        "uploaded_at": "2026-06-05T04:56:36.203256",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5206,6 +5209,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T04:56:32.886459"
     }
   },
   {
