@@ -818,13 +818,16 @@
       "drive_file_id": "154xpAFvNxmklE2BCUaa0cGfMm4WBi8pO"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Makeup makes me feel pretty, what do you think? I mean I'm pretty, look at my little eye, look me straight in the eye and just tell me you love me."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9c5cxRYRbCc",
+        "uploaded_at": "2026-06-05T22:42:11.828980",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -838,6 +841,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T22:42:07.820086"
     }
   },
   {
