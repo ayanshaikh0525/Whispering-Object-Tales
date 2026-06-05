@@ -7142,13 +7142,16 @@
       "drive_file_id": "1IGfJxjnSKtltp9eSUkHjCqliiotGVJx1"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Now I realize I never truly left this place Black is traditional, but if you'd prefer pink or vermilion or chartreuse Do you hear that? They're watching us always"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "O1dyZxWCc6Q",
+        "uploaded_at": "2026-06-05T15:21:50.036120",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7162,6 +7165,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-05T15:21:45.746901"
     }
   },
   {
