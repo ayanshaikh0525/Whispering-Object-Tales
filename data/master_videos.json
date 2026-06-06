@@ -3214,13 +3214,16 @@
       "drive_file_id": "1BYGYAwnIxRIhTaEJxAcOY_vnL6zNxPSX"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Don't scroll, wait. This is a different video. This is an apology for all my friends in the past videos. I know everyone hates AI in 2025, but this is our world. It's ugly and dirty, but it's ours. We're not that bad. We just look... Weird. Just look at my face. I know we went too far with the soaps video, but we already said could be to them. What I mean is... I'm sorry. I hope you don't hate the next videos. If you've seen my videos, thank you. Please like and comment. And if not, go to my channel. And from now, I'm sorry for what you'll see."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "bIwX3KHDAQc",
+        "uploaded_at": "2026-06-06T00:04:29.519787",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3234,6 +3237,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T00:04:25.801581"
     }
   },
   {
