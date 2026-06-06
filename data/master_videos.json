@@ -3743,13 +3743,16 @@
       "drive_file_id": "1NQ_uEHhnxJejvRzlPvWy1FLn3pk_n53i"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Blow the cartridge. You're your Gen Z. You probably don't know me. No apps, still unstoppable. I played music when data didn't exist. You're my Gen Z."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "SDWyvfFeWXc",
+        "uploaded_at": "2026-06-06T20:40:02.593387",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3763,6 +3766,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T20:39:57.951506"
     }
   },
   {
