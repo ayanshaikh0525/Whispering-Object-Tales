@@ -395,13 +395,16 @@
       "drive_file_id": "1TR87U-pf9kB1c-xadP1BiFhJiZGhB2qJ"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You see, Butterfingers, I'm not ready to fall yet. I ruin friendships for fun. Not everyone who starts. Finish it."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "L1AYw4yUXXo",
+        "uploaded_at": "2026-06-06T17:42:01.711045",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -415,6 +418,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T17:41:47.358453"
     }
   },
   {
