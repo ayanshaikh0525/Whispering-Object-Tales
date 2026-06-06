@@ -7549,13 +7549,16 @@
       "drive_file_id": "1OWiKBpsR6L2zFfvZODovaUtt-v9_cMbH"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please put me in the freezer, please. I'm melting. Please don't cut my yolk. Please let me keep my yolk. Please don't add pineapple on me. Please no pineapple."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_clIPo3f8KQ",
+        "uploaded_at": "2026-06-06T04:36:14.389546",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7569,6 +7572,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T04:36:09.634095"
     }
   },
   {
