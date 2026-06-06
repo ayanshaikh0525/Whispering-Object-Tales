@@ -7724,13 +7724,16 @@
       "drive_file_id": "1HrB1ORYwCjuEzPGE6-S1qCU9Cae7lqA3"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please don't bite me. Keep your filthy mouth away. Please, no. Don't drink straight from me. They pour me into a glass instead. Oh, please don't sit here. Sit in the other chair."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "4HaadZluEIw",
+        "uploaded_at": "2026-06-06T14:58:02.468006",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7744,6 +7747,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T14:57:58.738699"
     }
   },
   {
