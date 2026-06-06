@@ -7690,13 +7690,16 @@
       "drive_file_id": "1Ow_orZ3NNIkB9oP2GWcU5SbrLaTc0AFx"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "First place, a land where I belong. Only legends get to wear me. You always wanted to win a trophy like this, didn't you? Every punch echoes inside me. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "FPK660jxTBI",
+        "uploaded_at": "2026-06-06T22:01:06.711151",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7710,6 +7713,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T22:01:03.115818"
     }
   },
   {
