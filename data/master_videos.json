@@ -4921,13 +4921,16 @@
       "drive_file_id": "1GS3HwdqjyNsLly8ZAHliHgERHZoLm8Dl"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "If you see cows flying, yeah, that was me. Careful, I burn easily. Make everything slippery, you're welcome. I can cover you up. Thanks for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "TyT1jfRoeTw",
+        "uploaded_at": "2026-06-06T19:16:32.175589",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4941,6 +4944,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T19:16:23.353904"
     }
   },
   {
