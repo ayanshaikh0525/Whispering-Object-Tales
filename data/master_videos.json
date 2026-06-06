@@ -981,13 +981,16 @@
       "drive_file_id": "1HT87CH4OcnUR0yvnMpoYpHeDsh_M4eq_"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please don't wet me, I'll lose control. Don't test me, I explode pretty. Too hot, too hot, I'm not meant for this. It's too sweet, I can't handle sweet pain."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "sE7RuwnXco8",
+        "uploaded_at": "2026-06-06T16:07:16.792011",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1001,6 +1004,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T16:07:11.012841"
     }
   },
   {
