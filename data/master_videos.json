@@ -4224,13 +4224,16 @@
       "drive_file_id": "1423tbGTfTm8ng_FFEcegMEsp8MwmhWfp"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I'm Oreo, the reason milk has trust issues. That crinkle of foil. That's me shivering. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "mSNTw-B52w0",
+        "uploaded_at": "2026-06-06T10:01:00.006448",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4244,6 +4247,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T10:00:52.906636"
     }
   },
   {
