@@ -5054,13 +5054,16 @@
       "drive_file_id": "1xhlFwFHskK9NjkQ_dHm-R5KIItQbAaCa"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Brain-loading 6-7, 6-7. Touch grass? I am grass. I'm mostly ice, just like your ex. I'm not toxic, just emotionally unstable and full of sugar. I'm mostly ice, just like your ex."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ilTCc5p1a1o",
+        "uploaded_at": "2026-06-06T13:24:46.375720",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5074,6 +5077,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T13:24:40.887408"
     }
   },
   {
