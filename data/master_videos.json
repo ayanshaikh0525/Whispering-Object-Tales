@@ -331,13 +331,16 @@
       "drive_file_id": "1WTyO9PLjenu9K7uwnMe_OuvafU1fmPx_"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "In the still of the night, my heart takes flight. In the still of the night, my heart takes flight."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "JYImroQ9Is0",
+        "uploaded_at": "2026-06-06T11:41:00.461305",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -351,6 +354,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T11:40:49.189918"
     }
   },
   {
