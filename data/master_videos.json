@@ -4544,13 +4544,16 @@
       "drive_file_id": "1pgqsJsPAiYKER4iw2i6lc8mN_9C-9khp"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I just got started. I'm under a lot of pressure. Osha would hate this. I end the party."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "eh5Gm_RWz2s",
+        "uploaded_at": "2026-06-06T23:12:58.435162",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4564,6 +4567,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-06T23:12:52.494887"
     }
   },
   {
