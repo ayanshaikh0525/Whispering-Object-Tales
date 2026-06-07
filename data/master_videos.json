@@ -3413,13 +3413,16 @@
       "drive_file_id": "1OvQw1_TPAPXskwMGV5EfAq0B_9gD4GII"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Peace. I'm so tired. I can't feel my arm. Dance because I can't scream. Don't open me."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BYWW0PW3CbA",
+        "uploaded_at": "2026-06-07T18:02:03.872800",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3433,6 +3436,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T18:02:00.911215"
     }
   },
   {
