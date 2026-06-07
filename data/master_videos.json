@@ -3442,13 +3442,16 @@
       "drive_file_id": "1i9rUwhAvZLeAO7RrbM-GZlKIKI4NP7Zx"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Every crunch is a scream I recognize. He's amazing while we're at Bomb River. Kind of wish I didn't know that. You were made to be enjoyed, just not by us."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Fpi_yiS7Crk",
+        "uploaded_at": "2026-06-07T16:52:01.593694",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3462,6 +3465,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T16:51:53.449121"
     }
   },
   {
