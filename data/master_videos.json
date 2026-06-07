@@ -3605,13 +3605,16 @@
       "drive_file_id": "1n3NvC2lCdya2EpLeOPn85j5p4qc3Nuia"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "We're better than the Power Rangers. Say it. I'm your favorite. Webs won't save you, Spider-Airman. Smile less, SpongeBob. Thanks for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "V41wh-4gfq4",
+        "uploaded_at": "2026-06-07T22:36:52.980008",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3625,6 +3628,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T22:36:41.562705"
     }
   },
   {
