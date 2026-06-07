@@ -4376,13 +4376,16 @@
       "drive_file_id": "1XvC9IMTGaEPVj8__XiOMwodfq73Ze7Ln"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Yes, I mashed potatoes. This isn't normal. Help me, this is A.I. Slop. Get me out of here. First, pin me, bro, please. I'm gonna tell a trusted adult."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "yqVyi-Ls64w",
+        "uploaded_at": "2026-06-07T06:21:46.474779",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4396,6 +4399,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T06:21:30.746440"
     }
   },
   {
