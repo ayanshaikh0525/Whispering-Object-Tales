@@ -2171,13 +2171,16 @@
       "drive_file_id": "1mhk1hZ_lNRS_0Lm5Z5wo3KkfmQG0NL00"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "No one escapes the stick. Everything ends on a stick. Respect the stick. I was made for this. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "NC74eljn380",
+        "uploaded_at": "2026-06-07T15:22:32.586457",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2191,6 +2194,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T15:22:28.350363"
     }
   },
   {
