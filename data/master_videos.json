@@ -6061,13 +6061,16 @@
       "drive_file_id": "1kfXXOpgcqyTpK4cxuAvMaDjBQi6C2kXy"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Kill me up. I'm thirsty for terror. Made into a cup. Big mistake. Hot coffee keeps my wrappings cozy."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "XD_ww1CP7nk",
+        "uploaded_at": "2026-06-07T21:08:38.797091",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6081,6 +6084,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T21:08:24.097747"
     }
   },
   {
