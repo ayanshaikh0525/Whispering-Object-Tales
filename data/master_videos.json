@@ -151,13 +151,16 @@
       "drive_file_id": "1m1Lre_CL7DGyDgrqJ-lWr3G70UwIEnKH"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "It's so slimy. Really weird."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "T1y4yLw8tHA",
+        "uploaded_at": "2026-06-07T13:44:24.905964",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -171,6 +174,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T13:44:21.236594"
     }
   },
   {
