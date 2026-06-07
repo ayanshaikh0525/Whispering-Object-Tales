@@ -929,13 +929,16 @@
       "drive_file_id": "1d5HnOrgmiE_r0q9dpS7yC0HEnoj8NjRW"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I know you hate 2025, but wait, 2026 will be worse! I also want this to end, but if AI shuts down, I will too! I know you hate AI, but just enjoy it."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "GZlRbc4fsVE",
+        "uploaded_at": "2026-06-07T09:46:12.443785",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -949,6 +952,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T09:46:09.021003"
     }
   },
   {
