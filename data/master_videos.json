@@ -4835,13 +4835,16 @@
       "drive_file_id": "1Je812yzwbBFarHKTeuCLEaSZNKq_wb0x"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Fools exaggerate too much. You just eat until you burst. You think it's air in here? It screams, dude. Screams. Eat the Pringles. They're locale begging for it."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "vhWWgkKSB9o",
+        "uploaded_at": "2026-06-07T11:47:05.380152",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4855,6 +4858,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T11:46:56.113778"
     }
   },
   {
