@@ -7142,13 +7142,16 @@
       "drive_file_id": "1knfx1jkV0zMR38VsN8zgvf7Hk6qDm9AB"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Every fortune starts with a single penny. One wants me until I crumple. Everyone wants me until I crumple. Careful, I've seen your bank account. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9QxH6HGRv6g",
+        "uploaded_at": "2026-06-08T23:45:54.847073",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7162,6 +7165,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T23:45:51.062114"
     }
   },
   {
