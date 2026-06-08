@@ -7571,13 +7571,16 @@
       "drive_file_id": "1GzCQ85ihPGrgZfbxRd0qgtn2QdMM1nXz"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please don't bite me, eat a salad, or a chicken leg instead. Please don't put ketchup on me, I'm already under enough pressure. Please don't take me to KFC, I'm not ready to meet the Colonel."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WelxMTEJwMA",
+        "uploaded_at": "2026-06-08T14:34:31.256875",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7591,6 +7594,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T14:34:27.549600"
     }
   },
   {
