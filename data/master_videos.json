@@ -2450,13 +2450,16 @@
       "drive_file_id": "1FzbZADR6-npyP6EKw6fSv-wya8VtVvVB"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Are you going to squeeze me now? This is into the crisp texture of my skin. Do it slowly, let them hear the sound. I was grown for this moment. I'm going to squeeze you now."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "RtCW5KPQuvE",
+        "uploaded_at": "2026-06-08T17:50:33.261744",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2470,6 +2473,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T17:50:17.604738"
     }
   },
   {
