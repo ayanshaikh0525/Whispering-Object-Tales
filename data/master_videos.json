@@ -4186,13 +4186,16 @@
       "drive_file_id": "1Bf8NUGtpu_V4LLTWBy_wnYpWrNd5f4IS"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Believe in you, for real. You're someone's happy thought. Dream big, grind bigger. Keep going, you've got this. Dream big, grind bigger."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "QZYqMlqMdFY",
+        "uploaded_at": "2026-06-08T20:10:10.503538",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4206,6 +4209,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T20:10:06.244145"
     }
   },
   {
