@@ -7414,13 +7414,16 @@
       "drive_file_id": "1hu3mLawmOdtvi8Cxl4yga3XCSDu8R9Ns"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Don't stare, my tentacles get shy. Want a taste? Don't flinch, I'm gently gooey. I'm juicy and extremely pointy. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "a1Ad5_M2iCo",
+        "uploaded_at": "2026-06-08T05:12:37.368097",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7434,6 +7437,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T05:12:32.822970"
     }
   },
   {
