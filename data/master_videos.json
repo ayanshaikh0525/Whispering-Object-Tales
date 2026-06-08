@@ -1968,13 +1968,16 @@
       "drive_file_id": "1PfQGQwsq5iVnqUBP4nrmzz6NFzB1bxlI"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Keep going, you're doing great. Be brave, little buddy. You're stronger than you think. Hey champion, keep trying. You're doing better than you think. One smile can change your whole day."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "U50zzRjYzhg",
+        "uploaded_at": "2026-06-08T00:04:09.972181",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1988,6 +1991,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T00:03:56.034380"
     }
   },
   {
