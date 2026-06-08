@@ -6456,13 +6456,16 @@
       "drive_file_id": "1UXYmIoBvqybpMYmJdrzT_vOVu1hbyMuA"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "We talked about this in therapy. Say goodbye, not dramatic. I'm literally pickled, be serious. Come on, AI isn't that bad. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9WRmcP2oJOI",
+        "uploaded_at": "2026-06-08T10:02:31.541301",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6476,6 +6479,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T10:02:26.799403"
     }
   },
   {
