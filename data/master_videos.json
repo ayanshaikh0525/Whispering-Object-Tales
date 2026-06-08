@@ -4407,13 +4407,16 @@
       "drive_file_id": "1SR2DtZsqjJ7-PGYFw4jt6zyB-X_wKtR0"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Herbie is hungry. That Pikachu over there looks delicious. Herbie need more. This Mario looks so crispy. I need more. Need to eat. Eat. Eat."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "9SbE4t38SIc",
+        "uploaded_at": "2026-06-08T22:10:08.668903",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4427,6 +4430,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-08T22:10:02.814099"
     }
   },
   {
