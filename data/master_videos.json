@@ -906,13 +906,16 @@
       "drive_file_id": "1UVO7t0bE7ZRTkz3BhMeBEMO7QElG8Hc_"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Holy cow, so this is what I really look like. Blocking the road? Bro, it's my hobby. Don't you dare treat me like slime, Mother Trucker! What the fudge? Why do I have this face? What the fudge?"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "xCzdhqZ3oxI",
+        "uploaded_at": "2026-06-09T16:29:29.426800",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -926,6 +929,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T16:29:14.354866"
     }
   },
   {
