@@ -7212,13 +7212,16 @@
       "drive_file_id": "1nbNbOKVJME5FBAs-QdC8sMuvQLuGF6tJ"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You're shaking. I like that. I hate soup, that spoon stuff. I've been in too many mouths. You like that sound, don't you? I like that."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "TdE_z25VaBM",
+        "uploaded_at": "2026-06-09T10:32:17.891199",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7232,6 +7235,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T10:32:13.583089"
     }
   },
   {
