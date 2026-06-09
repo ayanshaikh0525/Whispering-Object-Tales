@@ -5244,13 +5244,16 @@
       "drive_file_id": "1Ls5MMWCxF9D0zSNq8JoKk5nyN_yQPbKU"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "My life is spinning and being targeted. Your handwriting is awful, bro. You'd better use a Mac. Bro, yeah, you just hop on Roblox for a bit. Bro, you should have left me at home. I'll be right back."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "7LZX04MRHns",
+        "uploaded_at": "2026-06-09T23:15:25.765467",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5264,6 +5267,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T23:15:21.917043"
     }
   },
   {
