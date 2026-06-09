@@ -4512,13 +4512,16 @@
       "drive_file_id": "1JCOxXS5DFziJ29VU6cao22E48sx3STt_"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "They only ask me to smile and run, smile and run, smile and run, smile and run. Smile and run, smile and run."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "kD78x9uli7Q",
+        "uploaded_at": "2026-06-09T21:49:24.082183",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4532,6 +4535,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T21:49:19.708569"
     }
   },
   {
