@@ -5853,13 +5853,16 @@
       "drive_file_id": "1ujy1cRMlW-OZzyjmpcp3zm8ntQ8Gz_nD"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "F's in the chat bro I'm the alphabets mvp This is creepy right You"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "8VlKoRYhwVA",
+        "uploaded_at": "2026-06-09T13:42:08.675586",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5873,6 +5876,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T13:42:03.427690"
     }
   },
   {
