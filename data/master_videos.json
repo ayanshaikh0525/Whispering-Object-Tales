@@ -7044,13 +7044,16 @@
       "drive_file_id": "1GH69T7EghkIjMXZmw4638mDSKK-WK3mG"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Too much force ruins me. I'm thicker than I look. You're the next jar. Please gap off."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "3APks4dv5nM",
+        "uploaded_at": "2026-06-09T19:11:17.239905",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7064,6 +7067,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T19:11:13.270602"
     }
   },
   {
