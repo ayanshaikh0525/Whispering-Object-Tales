@@ -8491,13 +8491,16 @@
       "drive_file_id": "14OZTisbEJhX0BL8lMszX2uRkb8aQ-2ap"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "you felt that rebreathing something followed you home it's been standing there it had hurt your thoughts"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "PfrgySqX-Lc",
+        "uploaded_at": "2026-06-10T11:35:08.155401",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8511,6 +8514,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T11:35:04.394431"
     }
   },
   {
