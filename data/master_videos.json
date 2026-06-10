@@ -6237,13 +6237,16 @@
       "drive_file_id": "1TpiRe70fbBafShaZUgQpMmG67h44LNBF"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Merry Christmas, this will hurt. You were always part of the menu. What if I wrap you in gift paper? The ribbon is just to keep you quiet. Tonight you complete the meal."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "ccH-veI84b8",
+        "uploaded_at": "2026-06-10T15:02:01.003636",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6257,6 +6260,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T15:01:56.173830"
     }
   },
   {
