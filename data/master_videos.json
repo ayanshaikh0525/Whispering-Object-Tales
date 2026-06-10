@@ -8572,13 +8572,16 @@
       "drive_file_id": "1TkBlXsbmL9yw199IKDhUeWrdtTY4OpMe"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "One day I'll be the first Cheeto president. I am the rock. Being famous is loud."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_hymZJVoSMU",
+        "uploaded_at": "2026-06-10T02:46:55.203876",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8592,6 +8595,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T02:46:50.852392"
     }
   },
   {
