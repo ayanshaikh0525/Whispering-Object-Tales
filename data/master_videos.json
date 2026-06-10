@@ -8096,13 +8096,16 @@
       "drive_file_id": "1dpaw6ZdmzcqjPvtxiV1eCUbLL9BlxhSN"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You call this happiness. You never stop at one. Diet starts Monday, right? I remember every bite. You never stop at one."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "mPeVgoCfrsI",
+        "uploaded_at": "2026-06-10T07:04:51.829400",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8116,6 +8119,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-10T07:04:47.097790"
     }
   },
   {
