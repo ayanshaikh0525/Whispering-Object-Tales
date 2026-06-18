@@ -5105,13 +5105,16 @@
       "drive_file_id": "1Bg8DduEJkUEbgLQpUgcyU-f150Gp3gWo"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I think you sound better than you are, dude. Don't stop. I need the sound. I live for it. Yepa, yepa, arribaaaaa! Tequila! Careful, Allie. Those aren't keys. They're my teeth. Play me at night. I wake things best left to sleep."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "X5CFk9i5KKk",
+        "uploaded_at": "2026-06-18T20:26:24.323886",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5125,6 +5128,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T20:26:20.351479"
     }
   },
   {
