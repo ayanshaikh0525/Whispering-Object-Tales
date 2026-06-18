@@ -73,6 +73,7 @@ jobs:
       - name: Create Service Account File
         run: |
           echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" | base64 -d > auth/service_account.json
+          echo "${{ secrets.SOURCE_FOLDER_ID }}"
 
       - name: Create OAuth Credentials
         run: |
