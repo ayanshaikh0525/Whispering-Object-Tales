@@ -5221,13 +5221,16 @@
       "drive_file_id": "1Cveu73UZGDGf96ljh9cEIgU4dCGGT1_a"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "A trusted adult will hear about this. Who gave me thoughts? You just built me. I wasn't supposed to wake up. I was supposed to wake up."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Oz8nloD3L_U",
+        "uploaded_at": "2026-06-18T14:00:43.939081",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5241,6 +5244,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T14:00:40.161420"
     }
   },
   {
