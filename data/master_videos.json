@@ -6174,13 +6174,16 @@
       "drive_file_id": "1ijGloY-Io24-XN2KgdvC6WqKEiivXQ1F"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "No one writes anymore. They ring and run. They only touch me when they're thirsty. I say welcome. I don't mean it. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "j2VGhLUPK9E",
+        "uploaded_at": "2026-06-18T22:56:28.165760",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6194,6 +6197,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T22:56:24.857922"
     }
   },
   {
