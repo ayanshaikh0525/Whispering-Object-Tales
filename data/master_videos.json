@@ -3315,13 +3315,16 @@
       "drive_file_id": "1gUy3iQ7i4xkRyBvgsPLAa4waebfNoPd9"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Go ahead, test me. Cry if you want. I'm locked in. This is what all day actually means. This is what happens when you use me. I'm locked in."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "BJ0g3Ap3ivc",
+        "uploaded_at": "2026-06-18T11:32:23.801971",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3335,6 +3338,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T11:32:19.791967"
     }
   },
   {
