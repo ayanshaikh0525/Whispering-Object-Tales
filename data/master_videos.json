@@ -465,13 +465,16 @@
       "drive_file_id": "1ON723-nZM-_yme_bFAl0W_3gUg2FyaMR"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Hey, it's Jeter again. I missed you guys. Today, by Melissa's request, we're trying pizza. This looks good. Approved by Jeter. Thanks for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "rP8vb2JJQWA",
+        "uploaded_at": "2026-06-18T17:31:32.631396",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -485,6 +488,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T17:31:27.994934"
     }
   },
   {
