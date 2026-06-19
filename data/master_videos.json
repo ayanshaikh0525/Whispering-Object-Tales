@@ -5629,13 +5629,16 @@
       "drive_file_id": "1IKmIYJBvr1IeUeHS9AAs2Pae8-TKAUyq"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "We're back, and we're cleaner than ever."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Tfj8Bdul6vc",
+        "uploaded_at": "2026-06-19T21:04:25.265908",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5649,6 +5652,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T21:04:21.725453"
     }
   },
   {
