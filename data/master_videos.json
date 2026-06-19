@@ -6634,13 +6634,16 @@
       "drive_file_id": "1J3gSdHav_xh7bbpy-7fymP9uZZJYtPYF"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You use me to erase what's real. You don't need to cover it all to be beautiful. I know what you're hiding. You don't need to cover it all to be beautiful."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "UW9j5DjraBE",
+        "uploaded_at": "2026-06-19T22:50:17.924492",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6654,6 +6657,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T22:50:13.754995"
     }
   },
   {
