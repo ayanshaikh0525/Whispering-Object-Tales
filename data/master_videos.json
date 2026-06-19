@@ -7644,13 +7644,16 @@
       "drive_file_id": "1wyks8vQIWJa3-PkRxwONJoXv2mE_dBde"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I bet your dear dying to bite it. I bet your time it's time for you to taste what took you hours to cook. I think it looks delicious, don't you agree? I'm fully cooked and ready and just pour honey on me. Just one bite, please eat more."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "eKvAuKlRrZw",
+        "uploaded_at": "2026-06-19T00:21:53.926158",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7664,6 +7667,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T00:21:49.501996"
     }
   },
   {
