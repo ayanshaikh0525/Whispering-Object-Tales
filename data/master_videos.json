@@ -2764,13 +2764,16 @@
       "drive_file_id": "142WbPqkSjFh4cFPZsf5SRPEFt9nA2kFJ"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I want to be bitten Don't look away I want you closer I want you to come closer I want to be bitten"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "nK8BRL3waVM",
+        "uploaded_at": "2026-06-19T06:11:35.850797",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2784,6 +2787,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T06:11:31.711786"
     }
   },
   {
