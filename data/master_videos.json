@@ -2102,13 +2102,16 @@
       "drive_file_id": "15ZLTvr7y9q4LTqVaDUkiBULJiwTXl7Oj"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "A ember candle, digivolve too. Blaze candle, blaze candle, digivolve too. Absolute flame, absolute flame, digivolve too. Inferno candle. So, this is the end of my flame."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "aDrHg15Dmd8",
+        "uploaded_at": "2026-06-19T19:30:52.191654",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2122,6 +2125,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T19:30:48.056469"
     }
   },
   {
