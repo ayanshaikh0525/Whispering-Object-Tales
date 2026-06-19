@@ -3885,13 +3885,16 @@
       "drive_file_id": "10zKF8nmlGe3mOYX8EA364ZrABYEi_vq8"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "භ රසා ව඾න්රඅු. රීමටේව භි මසරක්ර�今日 我们要満了 පැඩි, බි, මොතා පැඩි වහ කොදන් අින ඓය ඔබත් ලෙල් Datab"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "lLxaIc5BqJA",
+        "uploaded_at": "2026-06-19T14:51:20.933691",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3905,6 +3908,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T14:51:16.795627"
     }
   },
   {
