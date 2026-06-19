@@ -5181,13 +5181,16 @@
       "drive_file_id": "1ZWpQ1jhV8ozlgIUTaDppwle05fx4GLG_"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I bet you never thought I'd be this fluffy. I remember every hand that stirred me. Hey, I'm a zombie and I need a hand. I remember. I remember."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "gyFKUMBxoC8",
+        "uploaded_at": "2026-06-19T17:13:59.263291",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5201,6 +5204,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-19T17:13:55.134910"
     }
   },
   {
