@@ -2834,13 +2834,16 @@
       "drive_file_id": "14DkmG9ZsT6Nm9B9nu4M2kCBioaA4gbqA"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You think diamonds shine brighter? Keep dreaming. Keep staring. Maybe you'll turn into jewelry, too. I don't cleanse energy. I consume it. Shhh, just five. That's what I'm here for. Shhh, just five."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "XpClYJa0iZY",
+        "uploaded_at": "2026-06-20T00:04:10.574240",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2854,6 +2857,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T00:04:03.636865"
     }
   },
   {
