@@ -7547,13 +7547,16 @@
       "drive_file_id": "1mQU06Jq_VoTZHVPwHU7nhEqafw5lLC6L"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Lil' Pineapple Baby D-O-W-P Strawberry Dreams, very scary, still legendary Be mango, sit down, be mango, sit down Peach in my hand, peach in my mind Be mango, sit down, be mango, sit down"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Z9LUYDpHLJU",
+        "uploaded_at": "2026-06-20T08:46:36.497797",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7567,6 +7570,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T08:46:22.870214"
     }
   },
   {
