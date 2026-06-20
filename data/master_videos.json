@@ -8600,13 +8600,16 @@
       "drive_file_id": "1apwoJf2HCQIYRdU_dCfj9-wBpMnPg1a_"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I'm so happy you are with me at home."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "hwdhoQu-hN8",
+        "uploaded_at": "2026-06-20T23:01:50.372656",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8620,6 +8623,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T23:01:42.683612"
     }
   },
   {
