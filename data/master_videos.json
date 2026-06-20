@@ -4135,13 +4135,16 @@
       "drive_file_id": "1CcBT5UAu1v7NaL33c0lYb8OuW-RXIuBk"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Something's moving inside me. He wants the trick. Good luck dude. Can't talk. Magician rules. Bro, I'm not a curtain. Stop wagging me dude. I'm not a curtain."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "IPzUkvMKzCs",
+        "uploaded_at": "2026-06-20T15:43:06.282408",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4155,6 +4158,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T15:42:46.519804"
     }
   },
   {
