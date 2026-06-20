@@ -6053,13 +6053,16 @@
       "drive_file_id": "1Gpaoz0MP1ao0WPBIB35QxePbl-mrcyD8"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please. Stop. Who? Please. Stop. I can't take any more, honey. Please. Stop. I don't want to lose my stuffing."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "JGhb_uAWLUE",
+        "uploaded_at": "2026-06-20T13:47:08.248516",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6073,6 +6076,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T13:47:04.643960"
     }
   },
   {
