@@ -7269,13 +7269,16 @@
       "drive_file_id": "1nbV_JFEx0dv11I9YVo5Fz7gNy4qG0qzG"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I'm Sal Sausage. Welcome to the Meat Zone. Stop calling me Salami. I am Pepirooni. I'm Amber. Savor me responsibly. I'm roast beef from hotter than your oven. Savor me responsibly."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "pN8U6NziZ70",
+        "uploaded_at": "2026-06-20T21:09:51.366560",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7289,6 +7292,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T21:09:36.387276"
     }
   },
   {
