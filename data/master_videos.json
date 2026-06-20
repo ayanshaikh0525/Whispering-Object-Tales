@@ -5176,13 +5176,16 @@
       "drive_file_id": "15Ou9f6tfaqI-pxGj4P9BFzItvsoBNXKI"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please, every slice hurts. I'm not a topping. I'm alive. You think this is funny? Strawberry means hospital for me. Poor bread, always allergic, and I knew it."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "b7omlVLbm6c",
+        "uploaded_at": "2026-06-20T19:15:32.857380",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5196,6 +5199,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T19:15:28.961286"
     }
   },
   {
