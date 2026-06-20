@@ -5013,13 +5013,16 @@
       "drive_file_id": "12lK31AczlTizFHB2AJf93DVkr4rruhRu"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I can't stop wiggling. I keep her root safe. I melt too fast, please. Be strong until you touch me."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "eFvEYoJ47Oc",
+        "uploaded_at": "2026-06-20T17:19:56.965387",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5033,6 +5036,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T17:19:47.422113"
     }
   },
   {
