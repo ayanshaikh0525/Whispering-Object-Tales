@@ -6082,13 +6082,16 @@
       "drive_file_id": "12HHB_53hU2e66oYFAvjyInb8qDdUh_Qy"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "He's just one more bite. That's that money. That's that money. Money."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "boRAa_a9R14",
+        "uploaded_at": "2026-06-20T05:07:37.251971",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6102,6 +6105,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T05:07:33.051033"
     }
   },
   {
