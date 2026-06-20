@@ -7088,13 +7088,16 @@
       "drive_file_id": "166JN3qgr78tZtZkTFt1XgVV0YMerqUr8"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I want to see what happens when I pop. You think you drive me? Cute! I like it. I like it tight. Don't slack off. I like it tight."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "W-8XKxk1cLU",
+        "uploaded_at": "2026-06-20T11:12:22.049255",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7108,6 +7111,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-20T11:12:09.378318"
     }
   },
   {
