@@ -6583,13 +6583,16 @@
       "drive_file_id": "14YeaIbQLYiRkojE0r0x0u60EfuYnpble"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Stop blaming me. It's math. Seriously? Another strike? I like watching them fall. Lost one. Still worth it, please. I'm sorry."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "4_7dn0KXw8w",
+        "uploaded_at": "2026-06-21T11:41:43.516671",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6603,6 +6606,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T11:41:29.474952"
     }
   },
   {
