@@ -3171,13 +3171,16 @@
       "drive_file_id": "1reI-nrSSFrRdnBFRuCO5qj6mXs1KdAd7"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Just tell me, am I your favorite dessert? You're enjoying this, aren't you? You've got a problem with squeezing food, don't you?"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_a99rp2GugM",
+        "uploaded_at": "2026-06-21T23:05:53.265489",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3191,6 +3194,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T23:05:40.019629"
     }
   },
   {
