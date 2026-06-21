@@ -6013,13 +6013,16 @@
       "drive_file_id": "17aSMjo8c2C3wtD7n-VK4HNZsOMYUmDHN"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please, Mickey. Tell them to stop! I didn't kiss Minnie! Ha ha ha! Pweezy, if I break, your childhood goes with me. Please, no! I'm Donald! Don't turn me into dinner!"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "2WyVkFCauSE",
+        "uploaded_at": "2026-06-21T08:05:53.775636",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6033,6 +6036,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T08:05:49.688319"
     }
   },
   {
