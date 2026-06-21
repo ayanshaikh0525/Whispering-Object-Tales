@@ -2718,13 +2718,16 @@
       "drive_file_id": "1Yp-FXw3xFk6gsM36c7GQCt6a9EWtdNZF"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Don't touch the cracks, something might slip out. Enjoy the sounds of my soul. Play my soul is darker like yours. Play my soul is darker like yours."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "yd6bnz41GzE",
+        "uploaded_at": "2026-06-21T21:09:01.166271",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2738,6 +2741,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T21:08:55.703401"
     }
   },
   {
