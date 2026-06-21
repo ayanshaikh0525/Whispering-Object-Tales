@@ -6310,13 +6310,16 @@
       "drive_file_id": "1xGkpSMseuLh1dm7jVVNqfQGXAbzF48__"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Pop me. You know you can't resist. You like the sound I make, don't you? Hey, hey. What am I doing here? This isn't my video. Get me out of here. What am I doing here?"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "CDj3xDL6EAs",
+        "uploaded_at": "2026-06-21T15:48:42.468878",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6330,6 +6333,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T15:48:37.485498"
     }
   },
   {
