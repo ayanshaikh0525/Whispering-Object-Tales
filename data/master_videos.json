@@ -5688,13 +5688,16 @@
       "drive_file_id": "1Wh3jWrOlT3fBd6OYNoWqtBYHRzjw4DFW"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Even lightning has more taste than this. Don't let the sun take me. I'm not ready to fade. You chase me for treasure, but I only lead to your end. I'm about to risk it all for this bite. I'm back, but relax. This time I won't destroy everything with just a puff. Everything burns in my mouth, and I'm still hungry."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "XGOcOxGSmSs",
+        "uploaded_at": "2026-06-21T17:23:25.713387",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5708,6 +5711,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-21T17:23:21.293168"
     }
   },
   {
