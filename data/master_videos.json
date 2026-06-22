@@ -8614,13 +8614,16 @@
       "drive_file_id": "1274nM441NqjYIZfHYrX99fVg89_deI5P"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Which Pop-Tarts is your favorite? It's me, right? You're not cheating on me with another snack. You only want one honey butt, say it. You don't need therapy, you need cosmic brownie. You're not cheating on me with another snack."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "AGfsvpZvA2c",
+        "uploaded_at": "2026-06-22T21:58:51.724426",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8634,6 +8637,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T21:58:34.141364"
     }
   },
   {
