@@ -7724,13 +7724,16 @@
       "drive_file_id": "1vyu5vqEPJ0RIlgPCGuWq9nohd9CTEDL9"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You climb me, I watch you fall. Avalanche. I'm not mad, I'm just venting. Listen to the sand falling. You climb me, you stick forever."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_X5YOl3TLG4",
+        "uploaded_at": "2026-06-22T03:31:58.896903",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7744,6 +7747,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T03:31:53.735372"
     }
   },
   {
