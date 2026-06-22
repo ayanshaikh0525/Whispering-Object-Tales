@@ -2660,13 +2660,16 @@
       "drive_file_id": "1gbZYkBMEhFZrciw7yMQFXBdu0vd9uKef"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Happy Valentine's Day. This was sent with love. Every petal says, I love you. Be mine today. I melt for you. Happy Valentine's Day."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "WEWU_E1a4qs",
+        "uploaded_at": "2026-06-22T19:20:53.811885",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2680,6 +2683,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T19:20:49.005526"
     }
   },
   {
