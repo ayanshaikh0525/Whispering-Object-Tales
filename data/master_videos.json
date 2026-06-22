@@ -6584,13 +6584,16 @@
       "drive_file_id": "1nHKycy-zNl51MQaKD6BVGpMU2s4_dMbd"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I was here before all of you. Error 404, sleep not found. Made your grandma dance, respect that. Facebook's still here? Wow, vintage."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "-qRR0WUH-jk",
+        "uploaded_at": "2026-06-22T09:43:00.668458",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6604,6 +6607,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T09:42:56.214960"
     }
   },
   {
