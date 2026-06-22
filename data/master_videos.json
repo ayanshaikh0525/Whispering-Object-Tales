@@ -3142,13 +3142,16 @@
       "drive_file_id": "1ft6KxIyFUzOm2noKymWFKvZAgBFnE7Vx"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I'll pay for everyone's therapy. I love you. In 2030, Jeff, I'll be waiting for you here. You are welcome. I am a p-lanet. Don't call me dwarf. Don't leave me out."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "fPU1Q7DoXXM",
+        "uploaded_at": "2026-06-22T15:17:10.343401",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3162,6 +3165,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T15:17:06.454416"
     }
   },
   {
