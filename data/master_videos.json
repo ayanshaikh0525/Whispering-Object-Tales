@@ -122,13 +122,16 @@
       "drive_file_id": "1UfBoBt2EKG314Re_6yC5g6cC3BriXzI-"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "안녕하세요 여러분! 오늘의 메뉴는 치즈스틱입니다! 치즈스틱 치즈스틱 치즈스틱 치즈스틱 치즈스틱 치즈스틱 치즈스틱 치즈스틱 치즈스틱 치즈스틱"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "EF6NaUdUJRg",
+        "uploaded_at": "2026-06-22T23:20:43.211573",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -142,6 +145,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-22T23:20:39.931425"
     }
   },
   {
