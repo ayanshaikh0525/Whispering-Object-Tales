@@ -6707,13 +6707,16 @@
       "drive_file_id": "1ScDuVjhczzPMzATnD6yw6ZRfoo-h_Rlf"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I dreamed of growing up, but guess I'm just another decoration now. Man, I hate Halloween. Put that knife down, don't carve me up! It worked so hard to be big and healthy, and now I'm just stuck on your porch."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "re_q7KnFtiA",
+        "uploaded_at": "2026-06-23T02:38:31.765313",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6727,6 +6730,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T02:38:28.399507"
     }
   },
   {
