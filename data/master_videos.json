@@ -622,13 +622,16 @@
       "drive_file_id": "1JfR40x8-hffuI8ted6aLkWthseHGR1np"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You came back. I knew you would. You're still here. That's enough for me. You're watching this or watching this alone, right? The most polar park in the world. The most polar park in the world."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "o0OLQyzcg-8",
+        "uploaded_at": "2026-06-23T10:32:14.980290",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -642,6 +645,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T10:32:10.173320"
     }
   },
   {
