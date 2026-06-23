@@ -2934,13 +2934,16 @@
       "drive_file_id": "1pDZ17ZYMEswjIKNzzZyfGqp8eXVQ9pvv"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Ice Cream Digivolves 2 Triple Sunday Triple Sunday Digivolves 2 Celestial Cone Tell the freezer I loved her"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "nHyMVLhyde4",
+        "uploaded_at": "2026-06-23T23:03:40.945384",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2954,6 +2957,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T23:03:36.853737"
     }
   },
   {
