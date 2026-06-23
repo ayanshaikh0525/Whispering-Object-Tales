@@ -3108,13 +3108,16 @@
       "drive_file_id": "1TwqVWcJVIwp_wD5FGmrofZA0wYptWoz3"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "かいじゅうのししょく いただきます"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Bh0GftNqK_8",
+        "uploaded_at": "2026-06-23T21:28:06.393123",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3128,6 +3131,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T21:27:58.876564"
     }
   },
   {
