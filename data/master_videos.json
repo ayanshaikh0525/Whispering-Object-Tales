@@ -3410,13 +3410,16 @@
       "drive_file_id": "1rdZYHLCoTQ88oDgFb43i08BRyl1ImmCT"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Make this year count. Be patient with yourself. Be patient with yourself. Be patient with yourself. Believe your quiet strength."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "r73qCAQrrvE",
+        "uploaded_at": "2026-06-23T06:44:16.144664",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3430,6 +3433,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T06:44:11.695806"
     }
   },
   {
