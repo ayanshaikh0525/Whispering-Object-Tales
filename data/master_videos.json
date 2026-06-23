@@ -7958,13 +7958,16 @@
       "drive_file_id": "1n2KIt4q69TSaBBJArDf0H3wajdQZY1Ob"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Breakfast is ready. Do you want orange juice? Just relax and listen. What's your favorite fruit? Melon, grape, cherries. You love creepy ASMR? Just listen. I know I look strange, but just listen. Listen closely. This is my world. You will make ASMR AI your favorite."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "No2u8v-UT4U",
+        "uploaded_at": "2026-06-23T13:40:37.360963",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7978,6 +7981,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T13:40:30.969982"
     }
   },
   {
