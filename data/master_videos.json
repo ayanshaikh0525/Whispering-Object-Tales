@@ -2614,13 +2614,16 @@
       "drive_file_id": "1lnd87X9sEcZZSNjrPO1T2orUGMXw0u1F"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Don't forget again Squidward. I'm hungry. I know what you feel for SpongeBob, Squidward. Patrick knows your secret. It's okay. Bob told me you taste like ink. I know you like Bob, Squidward. It's okay."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "_XSwOZXYfYo",
+        "uploaded_at": "2026-06-23T16:24:54.898274",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2634,6 +2637,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-23T16:24:50.304548"
     }
   },
   {
