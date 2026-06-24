@@ -6825,13 +6825,16 @@
       "drive_file_id": "1zIcznqP9gR5StZWWQoIAbM2U95gpu11Y"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I ruined dreams for a living. We both waste time. Differently. Every second counts. Tick-tock, I never rest. Even I spin sometimes."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "HZ-3e77JDiU",
+        "uploaded_at": "2026-06-24T18:31:09.934993",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -6845,6 +6848,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T18:31:06.093563"
     }
   },
   {
