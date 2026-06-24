@@ -7936,13 +7936,16 @@
       "drive_file_id": "1hfABbnEIMaqM2Wif2WEdeZQPsk4UCJgZ"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Please, don't eat me. Eat sushi instead. Please, don't take long. Let's just finish this once and for all. You won't eat me. Stay away, motherfu-"
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "NlaZj1Zwk7g",
+        "uploaded_at": "2026-06-24T10:17:37.296321",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7956,6 +7959,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T10:17:25.934578"
     }
   },
   {
