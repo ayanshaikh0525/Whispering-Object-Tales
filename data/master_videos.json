@@ -6999,13 +6999,16 @@
       "drive_file_id": "1LknnTr6WHWd13Arj2KJG8Fz0J9iwUMC6"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "You always lose track of time in me. It's cheaper if you buy five. You'll be back tomorrow. You'll feel better after this. Thank you for watching."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "B-S7uwxioc4",
+        "uploaded_at": "2026-06-24T02:38:54.426771",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -7019,6 +7022,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T02:38:50.284846"
     }
   },
   {
