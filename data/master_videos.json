@@ -1586,13 +1586,16 @@
       "drive_file_id": "1MkTlkAbzxVH6KLBtBuOqYB_45wkrUjkS"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I love you, but let me go. Don't rush it, savor the crumble. I need your, I need all your dirt."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "bn5YaFxKLh4",
+        "uploaded_at": "2026-06-24T20:31:00.298207",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1606,6 +1609,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T20:30:55.792784"
     }
   },
   {
