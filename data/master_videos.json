@@ -4923,13 +4923,16 @@
       "drive_file_id": "1G77IyIWSEChSe2QYADCicK0KHPEelDRH"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Stop bending me. No, bend harder. Oh, great. Warm hands. Snow in my face, shame on you. I'm sharp. And deadly."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "vKCdpuzpzik",
+        "uploaded_at": "2026-06-24T22:11:48.496649",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4943,6 +4946,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T22:11:44.118581"
     }
   },
   {
