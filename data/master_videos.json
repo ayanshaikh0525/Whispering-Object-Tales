@@ -8320,13 +8320,16 @@
       "drive_file_id": "19r-Q0PgH169vwlDT8jBzN6grITL3bVKE"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Pick me. I'm cozier than the rest. Cozy? Ha ha! I've got a walk-in closet. Just enjoy the cabin by the lake. Bart's up to something. I can feel it. I'll be right back."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "X-uMMCA-cKs",
+        "uploaded_at": "2026-06-24T16:13:08.036095",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8340,6 +8343,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T16:13:04.091280"
     }
   },
   {
