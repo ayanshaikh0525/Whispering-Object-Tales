@@ -3091,13 +3091,16 @@
       "drive_file_id": "1jzeBYs71k-qkIpFIVpXo09vMXHpAgwxF"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "I sing when you sleep. Alright, now we've got one, got one, got one. Do I hear you two, two, two, two? Bring it three, three and a half. Sold right there. I count with you. Every note costs me a piece of my voice. Thank you."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "MBDubnNgXOg",
+        "uploaded_at": "2026-06-24T13:15:14.693108",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3111,6 +3114,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T13:15:10.123426"
     }
   },
   {
