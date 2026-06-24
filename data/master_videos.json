@@ -2370,13 +2370,16 @@
       "drive_file_id": "17SDQgaKVX_furqHuDReJVgXZsBnArGYp"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Flood it with 67, bro, bros. I know what you're afraid of. 404, my patience not found. I'm infinity, bro. No, not a pretzel. I'm not a pretzel."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "oWgRT8M4rsA",
+        "uploaded_at": "2026-06-24T06:41:23.152508",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2390,6 +2393,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-24T06:41:18.520263"
     }
   },
   {
