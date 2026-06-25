@@ -802,13 +802,16 @@
       "drive_file_id": "1Zv0Ep-nf7hOalkBkdGEHynZigKnGusGG"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Happy Thanksgiving, I guess. Stay warm, stay creamy, that's my job. One bite and you'll forget the turkey. Hey bro, why'd you put me at the end? Happy Thanksgiving, I guess."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "qzEN4ir6N7g",
+        "uploaded_at": "2026-06-25T04:59:45.517851",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -822,6 +825,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-25T04:59:41.249157"
     }
   },
   {
