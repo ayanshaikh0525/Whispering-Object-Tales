@@ -4679,13 +4679,16 @@
       "drive_file_id": "1uqy235QdlXJEP7tPTvbdj53B8n5zKOxQ"
     },
     "processed": {
-      "exists": false,
-      "transcribe": ""
+      "exists": true,
+      "transcribe": "Catch me if you can. Snow on the field, fire in the game. I'm the real MVP tonight. We're better, plain and simple. Eat me before the next play."
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "p5nqGZW4qTo",
+        "uploaded_at": "2026-06-25T00:03:33.217177",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -4699,6 +4702,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-25T00:03:28.804637"
     }
   },
   {
